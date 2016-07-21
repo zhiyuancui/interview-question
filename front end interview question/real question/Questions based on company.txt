@@ -215,12 +215,24 @@ MS
 --------------------------------------------------------------------------------------------------------------
 
 Visa
-1. Why do you want to use frameworks?
-2. What is the fundenmental problems frameworks solve
-3. Can't we achieve these in core javascript?
-4. What are the disgin patterns used in javascript?
-5. What is a closure?
-6. What is DOCTYPE?
+1.introduce yourself and your project
+2.Why you use libraries and frameworks? Benefits of angular js , what problems angular js solve?
+3.how to achive MVC using core javascript?
+4. Any design pattern? Write example about your design pattern
+5.What is closure of javascript? Write example for using closure?
+6. How to solve cross browser compatibility?
+7.the difference between apply and call?
+8.What is the DOCTYPE in html 5?
+9.What is the meant by Semantic Markup?
+10.difference between Span and Block level element.
+11.Can you explain what are the performance techniques that you used to load the page faster?
+12.What is meant by Cascade in Css?
+13.Can you explain about Specificity?
+14.block vs float
+15.what is meant by Prototype in JS?
+16. how do achieve inheritance?
+17. what is meant by inheritance?
+
 
 --------------------------------------------------------------------------------------------------------------
 
